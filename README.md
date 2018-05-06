@@ -32,9 +32,9 @@
     
     +   [CSS 清除浮动的三个方法](https://github.com/hoperyy/home/blob/master/docs/CSS%E6%B8%85%E9%99%A4%E6%B5%AE%E5%8A%A8%E7%9A%843%E4%B8%AA%E6%96%B9%E6%B3%95.md)
 
-+   css 样式的百分比都相对于谁？
++   CSS 样式的百分比都相对于谁？
 
-    +   [css 样式的百分比都相对于谁？](https://github.com/hoperyy/home/blob/master/docs/css%E6%A0%B7%E5%BC%8F%E7%9A%84%E7%99%BE%E5%88%86%E6%AF%94%E9%83%BD%E7%9B%B8%E5%AF%B9%E4%BA%8E%E8%B0%81.md)
+    +   [CSS 样式的百分比都相对于谁？](https://github.com/hoperyy/home/blob/master/docs/css%E6%A0%B7%E5%BC%8F%E7%9A%84%E7%99%BE%E5%88%86%E6%AF%94%E9%83%BD%E7%9B%B8%E5%AF%B9%E4%BA%8E%E8%B0%81.md)
 
 ## JavaScript
 
