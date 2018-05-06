@@ -38,6 +38,9 @@
 
 ## JavaScript
 
++   JavaScript 入门
++   [ECMAScript 6 入门]: http://es6.ruanyifeng.com/
+
 ## Node.js
 
 +   [Node 基础与实践](https://github.com/hoperyy/node-knowledge)
