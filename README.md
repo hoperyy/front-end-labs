@@ -40,6 +40,8 @@
 
 +   JavaScript 入门
 +   [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
++   继承的实现
+    +   [ES6 的继承](http://es6.ruanyifeng.com/#docs/class-extends)
 
 ## Node.js
 
