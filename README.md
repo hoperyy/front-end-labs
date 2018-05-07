@@ -54,3 +54,7 @@
 +   [HTTP 基础知识](https://github.com/hoperyy/home/blob/master/docs/HTTP%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
 +   [HTTP/HTTP/2.0/SPDY/HTTPS](http://www.alloyteam.com/2016/07/httphttp2-0spdyhttps-reading-this-is-enough/#prettyPhoto)
 +   [聊聊 websocket](https://github.com/hoperyy/home/blob/master/docs/%E8%81%8A%E8%81%8Awebsocket.md)
+
+## LICENSE
+
+MIT
