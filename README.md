@@ -11,7 +11,7 @@
 
 +   html 标签：http://www.w3school.com.cn/html/index.asp
 +   html5 标签：http://www.w3school.com.cn/html5/index.asp
-+   [gif/jpg/png/WebP 的区别](./docs/gif+jpg+png+WebP的区别.md)(2016)
++   [gif/jpg/png/WebP 的区别](./docs/gif+jpg+png+WebP的区别.md)
 
 ## CSS
 
@@ -50,7 +50,7 @@
 
 ## 网络基础
 
-+   [TCP 基础知识](./docs/TCP.md)(2017)
-+   [HTTP 基础知识](./docs/HTTP基础知识.md)(2017)
-+   [HTTP/HTTP/2.0/SPDY/HTTPS](./docs/HTTP+HTTP+2.0+SPDY+HTTPS.md)(2016)
-+   [聊聊 websocket](./docs/聊聊websocket.md)(2016)
++   [TCP 基础知识](https://github.com/hoperyy/home/blob/master/docs/TCP.md)
++   [HTTP 基础知识](https://github.com/hoperyy/home/blob/master/docs/HTTP%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
++   [HTTP/HTTP/2.0/SPDY/HTTPS](http://www.alloyteam.com/2016/07/httphttp2-0spdyhttps-reading-this-is-enough/#prettyPhoto)
++   [聊聊 websocket](https://github.com/hoperyy/home/blob/master/docs/%E8%81%8A%E8%81%8Awebsocket.md)
