@@ -57,6 +57,10 @@
 +   [HTTP/HTTP/2.0/SPDY/HTTPS](http://www.alloyteam.com/2016/07/httphttp2-0spdyhttps-reading-this-is-enough/#prettyPhoto)
 +   [聊聊 websocket](https://github.com/hoperyy/home/blob/master/docs/%E8%81%8A%E8%81%8Awebsocket.md)
 
+## 前端工程化
+
++   [front-end-engineering: 前端工程化详解](https://github.com/hoperyy/front-end-engineering)
+
 ## LICENSE
 
 MIT
