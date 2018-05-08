@@ -43,6 +43,8 @@
 +   [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 +   继承的实现
     +   [ES6 的继承](http://es6.ruanyifeng.com/#docs/class-extends)
++   数组去重
+    +   7种方法实现数组去重：https://juejin.im/post/5aed6110518825671b026bed
 
 ## Node.js
 
