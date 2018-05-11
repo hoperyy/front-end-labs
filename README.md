@@ -15,7 +15,7 @@
 
 +   html 标签：http://www.w3school.com.cn/html/index.asp
 +   html5 标签：http://www.w3school.com.cn/html5/index.asp
-+   [gif/jpg/png/WebP 的区别](./docs/gif+jpg+png+WebP的区别.md)
++   [gif/jpg/png/WebP 的区别](./docs/gif+jpg+png+WebP的区别.md)(2016)
 +   [HTML / CSS 小知识点](./docs/HTML+CSS小知识点.md)(2018)
 
 ## CSS
@@ -57,7 +57,7 @@
 +   数组
     +   7种方法实现数组去重：https://juejin.im/post/5aed6110518825671b026bed
 +   Promise
-    +   [Promise 认知](./docs/Promise认知.md)
+    +   [Promise 认知](./docs/Promise认知.md)(2017)
 +   underscore
     +	[underscore-analysis](https://github.com/hoperyy/underscore-analysis)(2017)
     +   [underscore 源码了解](./docs/underscore源码了解.md)(2015)
@@ -69,13 +69,13 @@
 
 ## Node.js
 
-+   [Node 基础与实践](https://github.com/hoperyy/node-knowledge)
++   [Node 基础与实践](https://github.com/hoperyy/node-knowledge)(2018)
 
 ## 前端工程化
 
-+   [front-end-engineering: 前端工程化详解](https://github.com/hoperyy/front-end-engineering)
-+   [首屏自动打点原理（终极版）](./docs/首屏自动打点原理（终极版）.md)
-+   [首屏自动打点原理（beta版）](./docs/首屏自动打点原理（beta版）.md)
++   [front-end-engineering: 前端工程化详解](https://github.com/hoperyy/front-end-engineering)(2018)
++   [首屏自动打点原理（终极版）](./docs/首屏自动打点原理（终极版）.md)(2018)
++   [首屏自动打点原理（beta版）](./docs/首屏自动打点原理（beta版）.md)(2018)
 
 ## 跨域
 
@@ -110,7 +110,7 @@
 
 ## 基础知识
 
-+   [一些通识](./docs/一些通识.md)
++   [一些通识](./docs/一些通识.md)(2018)
 +   [TCP 基础知识](./docs/TCP.md)(2017)
 +   [HTTP 基础知识](./docs/HTTP基础知识.md)(2017)
 +   [HTTP/HTTP/2.0/SPDY/HTTPS](./docs/HTTP+HTTP+2.0+SPDY+HTTPS.md)(2016)
@@ -128,7 +128,7 @@
 
 ## 个人思考
 
-+   [开源项目需要准备的东西](./docs/开源项目需要准备的东西.md)
++   [开源项目需要准备的东西](./docs/开源项目需要准备的东西.md)(2018)
 +   [推进业务落地的经验](./docs/推进业务落地的经验.md)（2017/10/19）
 +   [如何维护并优化一个复杂项目](./docs/如何维护并优化一个复杂项目.md)(2017/07)
 +   [远程同步文件的几种技术方案](./docs/远程同步文件的几种技术方案.md)(2017/06)
