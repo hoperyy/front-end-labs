@@ -62,8 +62,8 @@
     +	[underscore-analysis](https://github.com/hoperyy/underscore-analysis)(2017)
     +   [underscore 源码了解](./docs/underscore源码了解.md)(2015)
 +   jQuery
-+   [jQuery-1.7.1 源码阅读笔记](./docs/jQuery-1.7.1源码阅读笔记.md)(2015)
-+   [《高性能 JavaScript》笔记](./docs/《高性能JavaScript》笔记.md)(2015)
+    +   [jQuery-1.7.1 源码阅读笔记](./docs/jQuery-1.7.1源码阅读笔记.md)(2015)
+    +   [《高性能 JavaScript》笔记](./docs/《高性能JavaScript》笔记.md)(2015)
 +   [正则表达式语法规则](./docs/正则表达式语法规则.md)(2015)
 +   [JavaScript 小知识点](./docs/JavaScript小知识点.md)(2018)
 
