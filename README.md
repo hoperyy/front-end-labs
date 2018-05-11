@@ -118,6 +118,14 @@
 +   [从输入 URL 到页面加载完成的过程中都发生了什么事情？](./docs/从输入URL到页面加载完成的过程中都发生了什么事情.md)(2016)
 +   [Cookie / LocalStorage / SessionStorage / Session](./docs/Cookie-LocalStorage-SessionStorage-Session.md)(2016)
 
+## 工具
+
++   [配置你的 github pages](./docs/配置你的github-pages.md)(2016)
++   [chrome 开发者工具使用](./docs/chrome开发者工具使用.md)(2014)
++   [用油猴子定制你的个性化插件](./docs/用油猴子定制你的个性化插件.md)(2014)
++   [Git 速查手册](./docs/Git速查手册.md)(2014)
++   [每天一个 linux 命令](./docs/每天一个linux命令.md)(2017)
+
 ## 个人思考
 
 +   [开源项目需要准备的东西](./docs/开源项目需要准备的东西.md)
@@ -129,14 +137,6 @@
 +   [何为优秀的前端？](./docs/何为优秀的前端.md)(2015)
 +   [2014 年工作总结](./docs/2014年工作总结.md)(2014)
 +   [一次大促活动总结](./docs/一次大促活动总结.md)(2014)
-
-## 工具
-
-+   [配置你的 github pages](./docs/配置你的github-pages.md)(2016)
-+   [chrome 开发者工具使用](./docs/chrome开发者工具使用.md)(2014)
-+   [用油猴子定制你的个性化插件](./docs/用油猴子定制你的个性化插件.md)(2014)
-+   [Git 速查手册](./docs/Git速查手册.md)(2014)
-+   [每天一个 linux 命令](./docs/每天一个linux命令.md)(2017)
 
 ## LICENSE
 
