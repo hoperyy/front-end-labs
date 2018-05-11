@@ -26,13 +26,8 @@
     +   CSS 选择器：http://www.w3school.com.cn/css/css_selector_type.asp
     +   CSS 框模型：http://www.w3school.com.cn/css/css_boxmodel.asp
     +   CSS 定位：http://www.w3school.com.cn/css/css_positioning.asp
-+   BFC
 
-    +   [BFC 介绍和 margin 合并](https://github.com/hoperyy/home/blob/master/docs/%E4%BB%80%E4%B9%88%E6%98%AFBFC.md)
-
-+   margin 合并
-
-    +   [BFC 介绍和 margin 合并](https://github.com/hoperyy/home/blob/master/docs/%E4%BB%80%E4%B9%88%E6%98%AFBFC.md)
++   [BFC 介绍和 margin 合并](https://github.com/hoperyy/home/blob/master/docs/%E4%BB%80%E4%B9%88%E6%98%AFBFC.md)(2016)
 
 +   CSS 清除浮动
     
