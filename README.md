@@ -52,22 +52,34 @@
 +   ES6
     +   [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
     +   [ES6 学习笔记](./docs/ES6学习笔记.md)(2018)
-+   继承的实现
++   继承
     +   [ES6 的继承](http://es6.ruanyifeng.com/#docs/class-extends)
-+   数组去重
++   数组
     +   7种方法实现数组去重：https://juejin.im/post/5aed6110518825671b026bed
-+   [JavaScript 小知识点](./docs/JavaScript小知识点.md)(2018)
 +   Promise
     +   [Promise 认知](./docs/Promise认知.md)
-+	[underscore-analysis](https://github.com/hoperyy/underscore-analysis)(2017)
-+   [underscore 源码了解](./docs/underscore源码了解.md)(2015)
-+   [《JavaScript 设计模式》](./docs/JavaScript设计模式.md)(2016)
-+   [跨域那点事](./docs/跨域那点事.md)(2016)
-+   [Cookie / LocalStorage / SessionStorage / Session](./docs/Cookie-LocalStorage-SessionStorage-Session.md)(2016)
-+   [JavaScript 算法](./docs/JavaScript算法.md)(2016)
++   underscore
+    +	[underscore-analysis](https://github.com/hoperyy/underscore-analysis)(2017)
+    +   [underscore 源码了解](./docs/underscore源码了解.md)(2015)
++   jQuery
 +   [jQuery-1.7.1 源码阅读笔记](./docs/jQuery-1.7.1源码阅读笔记.md)(2015)
 +   [《高性能 JavaScript》笔记](./docs/《高性能JavaScript》笔记.md)(2015)
 +   [正则表达式语法规则](./docs/正则表达式语法规则.md)(2015)
++   [JavaScript 小知识点](./docs/JavaScript小知识点.md)(2018)
+
+## Node.js
+
++   [Node 基础与实践](https://github.com/hoperyy/node-knowledge)
+
+## 前端工程化
+
++   [front-end-engineering: 前端工程化详解](https://github.com/hoperyy/front-end-engineering)
++   [首屏自动打点原理（终极版）](./docs/首屏自动打点原理（终极版）.md)
++   [首屏自动打点原理（beta版）](./docs/首屏自动打点原理（beta版）.md)
+
+## 跨域
+
++   [跨域那点事](./docs/跨域那点事.md)(2016)
 
 ## 前端安全
 
@@ -77,22 +89,10 @@
 
 +   [前端性能优化](./docs/前端性能优化.md)
 
-## Node.js
+## 算法与设计模式
 
-+   [Node 基础与实践](https://github.com/hoperyy/node-knowledge)
-
-## 网络基础
-
-+   [TCP 基础知识](https://github.com/hoperyy/home/blob/master/docs/TCP.md)
-+   [HTTP 基础知识](https://github.com/hoperyy/home/blob/master/docs/HTTP%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
-+   [HTTP/HTTP/2.0/SPDY/HTTPS](http://www.alloyteam.com/2016/07/httphttp2-0spdyhttps-reading-this-is-enough/#prettyPhoto)
-+   [聊聊 websocket](https://github.com/hoperyy/home/blob/master/docs/%E8%81%8A%E8%81%8Awebsocket.md)
-
-## 前端工程化
-
-+   [front-end-engineering: 前端工程化详解](https://github.com/hoperyy/front-end-engineering)
-+   [首屏自动打点原理（终极版）](./docs/首屏自动打点原理（终极版）.md)
-+   [首屏自动打点原理（beta版）](./docs/首屏自动打点原理（beta版）.md)
++   [《JavaScript 设计模式》](./docs/JavaScript设计模式.md)(2016)
++   [JavaScript 算法](./docs/JavaScript算法.md)(2016)
 
 ## 前端框架
 
@@ -117,6 +117,7 @@
     +   [HTTP/HTTP/2.0/SPDY/HTTPS](./docs/HTTP+HTTP+2.0+SPDY+HTTPS.md)(2016)
     +   [聊聊 websocket](./docs/聊聊websocket.md)(2016)
 +   [从输入 URL 到页面加载完成的过程中都发生了什么事情？](./docs/从输入URL到页面加载完成的过程中都发生了什么事情.md)(2016)
++   [Cookie / LocalStorage / SessionStorage / Session](./docs/Cookie-LocalStorage-SessionStorage-Session.md)(2016)
 
 ## 个人思考
 
