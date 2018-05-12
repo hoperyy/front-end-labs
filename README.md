@@ -91,7 +91,7 @@
 +   React
     +   [用 React 实现移动端单页应用](./docs/用React实现移动端单页应用.md)(2016)
     +   [React 渲染性能提升](./docs/React渲染性能提升.md)(2016)
-    +   [跟着例子一步步学习redux+react-redux](https://segmentfault.com/a/1190000012976767)
+    +   [跟着例子一步步学习 redux + react-redux](https://segmentfault.com/a/1190000012976767)
 
 ## 团队管理
 
