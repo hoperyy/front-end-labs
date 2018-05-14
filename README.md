@@ -87,6 +87,7 @@
 
 +   Vue
     +	[vue 源码学习之：如何监听一个对象的变化](./docs/vue源码学习之-如何监听一个对象的变化.md)(2017)
+    +   [VirtualDOM 与 diff ( Vue 实现)](https://juejin.im/post/59bfbd736fb9a00a52065ec7)
 
 +   React
     +   [用 React 实现移动端单页应用](./docs/用React实现移动端单页应用.md)(2016)
