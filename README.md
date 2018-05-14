@@ -105,6 +105,9 @@
 
 ## 工具
 
++   Chrome
+    +   [Chrome Dev Tools---[性能篇]](https://juejin.im/post/5abfb6306fb9a028de44d520)
+
 +   [配置你的 github pages](./docs/配置你的github-pages.md)(2016)
 +   [chrome 开发者工具使用](./docs/chrome开发者工具使用.md)(2014)
 +   [用油猴子定制你的个性化插件](./docs/用油猴子定制你的个性化插件.md)(2014)
