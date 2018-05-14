@@ -87,14 +87,17 @@
 
 +   Vue
     +	[vue 源码学习之：如何监听一个对象的变化](./docs/vue源码学习之-如何监听一个对象的变化.md)(2017)
-    +   [VirtualDOM 与 diff ( Vue 实现)](https://juejin.im/post/59bfbd736fb9a00a52065ec7)
+    +   diff
+        +   [VirtualDOM 与 diff ( Vue 实现)](https://juejin.im/post/59bfbd736fb9a00a52065ec7)
+        +   [解析 vue2.0 的 diff 算法](https://juejin.im/entry/58d3857544d90400692458ee)
 
 +   React
     +   [用 React 实现移动端单页应用](./docs/用React实现移动端单页应用.md)(2016)
     +   [React 渲染性能提升](./docs/React渲染性能提升.md)(2016)
     +   [跟着例子一步步学习 redux + react-redux](https://segmentfault.com/a/1190000012976767)
-    +   [虚拟DOM Diff算法解析](https://www.kancloud.cn/kancloud/react-in-depth/67091)
-    +   [不可思议的 react diff](https://zhuanlan.zhihu.com/p/20346379?refer=purerender)
+    +   diff
+        +   [虚拟DOM Diff算法解析](https://www.kancloud.cn/kancloud/react-in-depth/67091)
+        +   [不可思议的 react diff](https://zhuanlan.zhihu.com/p/20346379?refer=purerender)
 
 ## 团队管理
 
