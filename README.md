@@ -32,7 +32,7 @@
 +   继承
     +   [ES6 的继承](http://es6.ruanyifeng.com/#docs/class-extends)(外链)
 +   数组
-    +   7种方法实现数组去重：https://juejin.im/post/5aed6110518825671b026bed(外链)
+    +   7种方法实现数组去重：https://juejin.im/post/5aed6110518825671b026bed (外链)
 +   Promise
     +   [Promise 认知](./docs/Promise认知.md)(2017)
 +   underscore
