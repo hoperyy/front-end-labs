@@ -12,19 +12,10 @@
 
 ## HTML
 
-+   html 标签：http://www.w3school.com.cn/html/index.asp
-+   html5 标签：http://www.w3school.com.cn/html5/index.asp
 +   [gif/jpg/png/WebP 的区别](./docs/gif+jpg+png+WebP的区别.md)(2016)
 +   [HTML / CSS 小知识点](./docs/HTML+CSS小知识点.md)(2018)
 
 ## CSS
-
-+   CSS 概述
-    +   CSS 简介：http://www.w3school.com.cn/css/css_jianjie.asp
-    +   CSS 样式：http://www.w3school.com.cn/css/css_background.asp
-    +   CSS 选择器：http://www.w3school.com.cn/css/css_selector_type.asp
-    +   CSS 框模型：http://www.w3school.com.cn/css/css_boxmodel.asp
-    +   CSS 定位：http://www.w3school.com.cn/css/css_positioning.asp
 
 +   [BFC 介绍和 margin 合并](https://github.com/hoperyy/home/blob/master/docs/%E4%BB%80%E4%B9%88%E6%98%AFBFC.md)(2016)
 
@@ -36,9 +27,7 @@
 
 ## JavaScript
 
-+   JavaScript 入门：http://www.w3school.com.cn/js/index.asp
 +   ES6
-    +   [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
     +   [ES6 学习笔记](./docs/ES6学习笔记.md)(2018)
 +   继承
     +   [ES6 的继承](http://es6.ruanyifeng.com/#docs/class-extends)
