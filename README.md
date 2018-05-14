@@ -23,7 +23,7 @@
 
 +   [CSS 样式的百分比都相对于谁？](https://github.com/hoperyy/home/blob/master/docs/css%E6%A0%B7%E5%BC%8F%E7%9A%84%E7%99%BE%E5%88%86%E6%AF%94%E9%83%BD%E7%9B%B8%E5%AF%B9%E4%BA%8E%E8%B0%81.md)(2016)
 
-+   [移动端高清、多屏适配方案](https://div.io/topic/1092)
++   [移动端高清、多屏适配方案](https://div.io/topic/1092)(外链)
 
 ## JavaScript
 
