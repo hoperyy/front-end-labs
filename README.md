@@ -79,6 +79,7 @@
     +   diff
         +   [VirtualDOM 与 diff ( Vue 实现)](https://juejin.im/post/59bfbd736fb9a00a52065ec7)(外链)
         +   [解析 vue2.0 的 diff 算法](https://juejin.im/entry/58d3857544d90400692458ee)(外链)
+    +   [自己实现一个 MVVM](https://juejin.im/post/5af8eb55f265da0b814ba766)(外链)
 
 +   React
     +   [用 React 实现移动端单页应用](./docs/用React实现移动端单页应用.md)(2016)
