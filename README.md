@@ -54,6 +54,7 @@
 +   [front-end-engineering: 前端工程化详解](https://github.com/hoperyy/front-end-engineering)(2018)
 +   [首屏自动打点原理（终极版）](./docs/首屏自动打点原理（终极版）.md)(2018)
 +   [首屏自动打点原理（beta版）](./docs/首屏自动打点原理（beta版）.md)(2018)
++   [Webpack 打包优化之速度篇](https://jeffjade.com/2017/08/12/125-webpack-package-optimization-for-speed/)
 
 ## 跨域
 
