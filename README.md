@@ -67,6 +67,7 @@
 ## 前端性能优化
 
 +   [前端性能优化](./docs/前端性能优化.md)(2016)
++   [GPU 加速](https://aotu.io/notes/2017/04/11/GPU/?o2src=juejin&o2layout=compat)
 
 ## 算法与设计模式
 
