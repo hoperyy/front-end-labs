@@ -6,7 +6,7 @@
 
 如果对大家有好处，求之不得。
 
-**备注：列表中标有时间的，即为我的个人文章/项目。**
+**下文中入无特别说明，均为个人原创文章/项目**
 
 # 内容
 
@@ -23,18 +23,18 @@
 
 +   [CSS 样式的百分比都相对于谁？](https://github.com/hoperyy/home/blob/master/docs/css%E6%A0%B7%E5%BC%8F%E7%9A%84%E7%99%BE%E5%88%86%E6%AF%94%E9%83%BD%E7%9B%B8%E5%AF%B9%E4%BA%8E%E8%B0%81.md)(2016)
 
-+   [移动端高清、多屏适配方案](https://div.io/topic/1092)
++   [移动端高清、多屏适配方案](https://div.io/topic/1092)(资料)
 
-+   [BEM 思想之彻底弄清 BEM 语法](https://www.w3cplus.com/css/mindbemding-getting-your-head-round-bem-syntax.html)
++   [BEM 思想之彻底弄清 BEM 语法](https://www.w3cplus.com/css/mindbemding-getting-your-head-round-bem-syntax.html)(资料)
 
 ## JavaScript
 
 +   ES6
     +   [ES6 学习笔记](./docs/ES6学习笔记.md)(2018)
 +   继承
-    +   [ES6 的继承](http://es6.ruanyifeng.com/#docs/class-extends)
+    +   [ES6 的继承](http://es6.ruanyifeng.com/#docs/class-extends)(资料)
 +   数组
-    +   7种方法实现数组去重：https://juejin.im/post/5aed6110518825671b026bed 
+    +   7种方法实现数组去重：https://juejin.im/post/5aed6110518825671b026bed (资料)
 +   Promise
     +   [Promise 认知](./docs/Promise认知.md)(2017)
 +   underscore
@@ -45,7 +45,7 @@
     +   [《高性能 JavaScript》笔记](./docs/《高性能JavaScript》笔记.md)(2015)
 +   [正则表达式语法规则](./docs/正则表达式语法规则.md)(2015)
 +   [JavaScript 小知识点](./docs/JavaScript小知识点.md)(2018)
-+   [Navigation Timing API](http://www.cocoachina.com/ios/20170717/19882.html)
++   [Navigation Timing API](http://www.cocoachina.com/ios/20170717/19882.html)(资料)
 
 ## Node.js
 
@@ -53,7 +53,7 @@
 
 ## 前端工程化
 
-+   [front-end-engineering: 前端工程化详解](https://github.com/hoperyy/front-end-engineering)(2018)
++   [front-end-engineering: 前端工程化](https://github.com/hoperyy/front-end-engineering)(2018)
 +   [首屏自动打点原理（终极版）](./docs/首屏自动打点原理（终极版）.md)(2018)
 +   [首屏自动打点原理（beta版）](./docs/首屏自动打点原理（beta版）.md)(2018)
 
@@ -68,7 +68,7 @@
 ## 前端性能优化
 
 +   [前端性能优化](./docs/前端性能优化.md)(2016)
-+   [GPU 加速](https://aotu.io/notes/2017/04/11/GPU/?o2src=juejin&o2layout=compat)
++   [GPU 加速](https://aotu.io/notes/2017/04/11/GPU/?o2src=juejin&o2layout=compat)(资料)
 
 ## 算法与设计模式
 
@@ -80,17 +80,17 @@
 +   Vue
     +	[vue 源码学习之：如何监听一个对象的变化](./docs/vue源码学习之-如何监听一个对象的变化.md)(2017)
     +   diff
-        +   [VirtualDOM 与 diff ( Vue 实现)](https://juejin.im/post/59bfbd736fb9a00a52065ec7)
-        +   [解析 vue2.0 的 diff 算法](https://juejin.im/entry/58d3857544d90400692458ee)
-    +   [自己实现一个 MVVM](https://juejin.im/post/5af8eb55f265da0b814ba766)
+        +   [VirtualDOM 与 diff ( Vue 实现)](https://juejin.im/post/59bfbd736fb9a00a52065ec7)(资料)
+        +   [解析 vue2.0 的 diff 算法](https://juejin.im/entry/58d3857544d90400692458ee)(资料)
+    +   [自己实现一个 MVVM](https://juejin.im/post/5af8eb55f265da0b814ba766)(资料)
 
 +   React
     +   [用 React 实现移动端单页应用](./docs/用React实现移动端单页应用.md)(2016)
     +   [React 渲染性能提升](./docs/React渲染性能提升.md)(2016)
-    +   [跟着例子一步步学习 redux + react-redux](https://segmentfault.com/a/1190000012976767)
+    +   [跟着例子一步步学习 redux + react-redux](https://segmentfault.com/a/1190000012976767)(资料)
     +   diff
-        +   [虚拟DOM Diff算法解析](https://www.kancloud.cn/kancloud/react-in-depth/67091)
-        +   [不可思议的 react diff](https://zhuanlan.zhihu.com/p/20346379?refer=purerender)
+        +   [虚拟DOM Diff算法解析](https://www.kancloud.cn/kancloud/react-in-depth/67091)(资料)
+        +   [不可思议的 react diff](https://zhuanlan.zhihu.com/p/20346379?refer=purerender)(资料)
 
 ## 团队管理
 
@@ -110,7 +110,7 @@
 ## 工具
 
 +   Chrome
-    +   [Chrome Dev Tools---[性能篇]](https://juejin.im/post/5abfb6306fb9a028de44d520)
+    +   [Chrome Dev Tools---[性能篇]](https://juejin.im/post/5abfb6306fb9a028de44d520)(资料)
 
 +   [配置你的 github pages](./docs/配置你的github-pages.md)(2016)
 +   [chrome 开发者工具使用](./docs/chrome开发者工具使用.md)(2014)
