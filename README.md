@@ -109,7 +109,7 @@
 
 ## 代码质量
 
-+   [利用 ESLint 检查代码质量](https://morning.work/page/maintainable-nodejs/getting-started-with-eslint.html)
++   [利用 ESLint 检查代码质量](https://morning.work/page/maintainable-nodejs/getting-started-with-eslint.html)(资料)
 
 ## 工具
 
