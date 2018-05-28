@@ -3,6 +3,8 @@
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
+        "dev": "docsite dev docs -l",
+        "ghpage": "docsite ghpage",
         "push": "git add . && git commit -m 'update' && git push origin master && exit 0"
     },
     "repository": {
@@ -14,5 +16,8 @@
     "bugs": {
         "url": "https://github.com/hoperyy/front-end-knowledge/issues"
     },
-    "homepage": "https://github.com/hoperyy/front-end-knowledge#readme"
+    "homepage": "https://github.com/hoperyy/front-end-knowledge#readme",
+    "dependencies": {
+        "docsite-cli": "^1.0.1"
+    }
 }
