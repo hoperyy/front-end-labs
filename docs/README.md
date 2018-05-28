@@ -6,8 +6,6 @@
 
 如果对大家有好处，求之不得。
 
-**下文中如无特别说明，均为个人原创文章/项目**
-
 网址：https://hoperyy.github.io/front-end-knowledge/#/
 
 # LICENSE
