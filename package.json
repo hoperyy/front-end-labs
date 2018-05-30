@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
-        "dev": "docsite dev docs -l",
+        "dev": "docsite dev -l",
         "ghpage": "docsite ghpage",
         "push": "git add . && git commit -m 'update' && git push origin master && exit 0"
     },
