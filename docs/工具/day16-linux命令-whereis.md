@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 # day 16 - linux 命令 : `whereis`
 
 `whereis` 命令只能用于程序名的搜索。

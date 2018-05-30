@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 # day 4 - linux 命令 : `mkdir`
 
 `mkdir` 命令用来创建目录

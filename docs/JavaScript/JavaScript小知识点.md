@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 ## 堆栈
 
 我们都知道：在计算机领域中，堆栈是两种数据结构，它们只能在一端(称为栈顶(top))对数据项进行插入和删除。

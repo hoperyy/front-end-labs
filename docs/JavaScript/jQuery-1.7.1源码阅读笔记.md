@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 # 背景
 
 本文基于《jquery技术内幕：深入解析jquery架构设计与实现原理》整理而成。标题最右侧的数字代表在书中的页码。

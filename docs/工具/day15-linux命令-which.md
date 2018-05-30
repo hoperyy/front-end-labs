@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 # day 15 - linux 命令 : `which`
 
 我们经常在 linux 要查找某个文件，但不知道放在哪里了，可以使用下面的一些命令来搜索： 

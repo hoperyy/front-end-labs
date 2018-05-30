@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 ## HTTP/1.0
 
 HTTP 全称：Hyper Text Transfer Protocol

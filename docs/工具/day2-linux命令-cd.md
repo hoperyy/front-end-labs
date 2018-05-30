@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 # day 2 - linux 命令 : `cd`
 
 `cd` 命令用来切换工作目录到 `dirname`。

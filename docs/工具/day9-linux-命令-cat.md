@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 # day 9 - linux 命令 : `cat`
 
 `cat` 命令用来显示文件内容

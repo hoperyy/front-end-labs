@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 ## 准备
 
 [这里](http://www.atool.org/sort.php) 可以查看各个算法的图示

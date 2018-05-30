@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 # day 7 - linux 命令 : `cp`
 
 `cp` 命令用来复制文件或目录

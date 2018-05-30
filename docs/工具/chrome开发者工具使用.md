@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 # 前言
 
 chrome 开发工具好，谁用谁知道。

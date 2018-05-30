@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/16)
+
 ## 什么是 BFC？
 
 BFC(Block formating contexts) 块级格式上下文。

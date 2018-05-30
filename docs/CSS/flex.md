@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 ## 参考文章
 
 http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html

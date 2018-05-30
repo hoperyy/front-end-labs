@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 # day 6 - linux 命令 : `mv`
 
 `mv` 命令用来**移动文件**或**将文件改名**，经常用来备份文件或目录

@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 `adapter mode`
 
 适配器模式比较简单。

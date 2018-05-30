@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 react 中有一个很值得注意的现象，当兄弟组件发生变化而自身组件没有发生变化时，react 仍然会执行 新旧虚拟 DOM 的 `render` 和 `diff`，这明显存在资源浪费。
 
 ## 查看性能细节 —— Perf

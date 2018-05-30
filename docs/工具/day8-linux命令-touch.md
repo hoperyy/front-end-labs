@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 # day 8 - linux 命令 : `touch`
 
 `touch` 命令用来：（1）新建一个文件；（2）修改文件时间戳

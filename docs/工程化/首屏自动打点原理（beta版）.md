@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 ## 首屏自动打点原理
 
 ### 方案一：轮询

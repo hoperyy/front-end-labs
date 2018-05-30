@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 
 + 参考资料
   + [阮一峰 —no-ff参数介绍](http://www.ruanyifeng.com/blog/2012/07/git.html)

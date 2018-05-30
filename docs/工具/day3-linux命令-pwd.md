@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 # linux 命令 : `pwd`
 
 `pwd` 命令以绝对路径的方式显示用户当前工作目录。

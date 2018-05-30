@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 # day 18 - linux 命令 : `diff`
 
 `diff` 用于对比文件或文件夹

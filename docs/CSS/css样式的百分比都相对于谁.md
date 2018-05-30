@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/18)
+
 +	相对于父元素宽度的
 
 	`[max/min-]width`、`left`、`right`、`padding`、`margin` 等；

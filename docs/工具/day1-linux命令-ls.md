@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 # day 1 - linux 命令 : `ls`
 
 `ls` 命令用来显示目标列表，在 Linux 中是使用率较高的命令。`ls` 命令的输出信息可以进行彩色加亮显示，以区分不同类型的文件。

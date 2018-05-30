@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 ## 了解 web 及网络基础
 
 +   HTTP 全称：HyperText Transfer Protocol 超文本传输协议，或者叫 超文本转移协议

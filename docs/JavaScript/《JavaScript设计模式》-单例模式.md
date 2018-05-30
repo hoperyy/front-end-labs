@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 ##	基础知识回顾
 
 +	`this` 的指向

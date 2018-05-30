@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 享元模式：flyweight
 
 在 JavaScript 中，浏览器特别是移动端的浏览器分配的内存并不多，如何节省内存就成了一件非常有意义的事情。

@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 学习地址：http://es6.ruanyifeng.com/
 
 ## 1. let 和 const 命令

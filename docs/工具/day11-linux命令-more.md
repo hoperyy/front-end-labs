@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 # day 11 - linux 命令 : `more`
 
 `more` 类似 `cat`。

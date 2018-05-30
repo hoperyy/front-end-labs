@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 # day 12 - linux 命令 : `less`
 
 `less` 类似 `more`。

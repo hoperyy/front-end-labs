@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/42)
+
 +	gif
 	+	优点
 		+	是无损压缩

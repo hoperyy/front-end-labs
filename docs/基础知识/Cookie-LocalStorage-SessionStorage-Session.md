@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 ## LocalStorage 和 SessionStorage
 
 +   共同点

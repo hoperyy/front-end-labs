@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 # 参考资料
 	
 [js高手进阶之路：underscore源码经典](http://yalishizhude.github.io/tags/underscore/)

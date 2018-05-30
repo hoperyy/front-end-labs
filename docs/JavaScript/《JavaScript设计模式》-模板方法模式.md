@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 +	模板方法模式的定义和组成
 	
 	模板方法模式由两部分组成：第一部分是抽象父亲，第二部分是具体的实现子类。

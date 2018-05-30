@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 # 前言
 本文基于《高性能JavaScript》整理而成。
 

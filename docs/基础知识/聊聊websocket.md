@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 ## websocket 是什么？
 
 websocket 是 HTML5 提出的协议。

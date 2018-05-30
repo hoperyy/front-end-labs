@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/17)
+
 ## `clear: both;`
 
 浮动末尾添加新标签或使用 `::after` 为元素，设置样式为 `clear:both`。

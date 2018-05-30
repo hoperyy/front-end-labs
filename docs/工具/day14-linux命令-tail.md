@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 #  day 14 - linux 命令 : `tail`
 
 `tail` 命令从指定点开始将文件写到标准输出

@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 # 原理
 
 +   `github` 可以生成静态网页

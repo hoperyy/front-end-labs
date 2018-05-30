@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 # day 10 - linux 命令 : `nl`
 
 `nl` 命令用来显示文件内容并加上行号

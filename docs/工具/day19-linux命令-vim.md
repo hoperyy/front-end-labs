@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 # [技术] [linux] day 019 - vim
 
 +   基础操作

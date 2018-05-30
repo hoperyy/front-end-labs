@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 # day 13 - linux 命令 : `head`
 
 `head` 用来显示开头某个数量的文字区块。

@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 #  day 5 - linux 命令 : `rm`
 
 `rm` 命令用来删除文件或目录，应谨慎使用

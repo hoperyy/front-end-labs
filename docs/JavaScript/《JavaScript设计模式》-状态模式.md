@@ -1,3 +1,5 @@
+[issue](https://github.com/hoperyy/blog/issues/41)
+
 举例一个电灯开关，电灯在 “开灯”、“强光”、“弱光”、“关灯” 之间切换。
 
 + 传统的写法：
