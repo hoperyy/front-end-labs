@@ -68,6 +68,7 @@
     +  [聊聊 websocket](/docs/基础知识/聊聊websocket)
 
 +  **前端工程化**
+    +   [前端工程化介绍](/docs/工程化/README.md)
     +   [webpack 深入配置](https://github.com/hoperyy/blog/issues/2)
     +   [webpack 经验谈](https://github.com/hoperyy/blog/issues/22)
     +   [启动一个 vue 项目](https://github.com/hoperyy/blog/issues/1)
