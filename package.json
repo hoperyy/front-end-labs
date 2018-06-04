@@ -18,6 +18,6 @@
     },
     "homepage": "https://github.com/hoperyy/front-end-knowledge#readme",
     "dependencies": {
-        "docsite-cli": "^1.0.1"
+        "docsite-cli": "^1.0.3"
     }
 }
