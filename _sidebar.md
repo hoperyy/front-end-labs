@@ -20,6 +20,7 @@
     +  [7 种方法实现数组去重](/docs/JavaScript/7种方法实现数组去重)
     +  [ES6 学习笔记](/docs/JavaScript/ES6学习笔记)
     +  [ES6 的继承](/docs/JavaScript/ES6的继承)
+    +  [原型链](/docs/JavaScript/原型链)
     +  [JavaScript 小知识点](/docs/JavaScript/JavaScript小知识点)
     +  [JavaScript 算法](/docs/JavaScript/JavaScript算法)
     +  [Promise 认知](/docs/JavaScript/Promise认知)
