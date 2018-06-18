@@ -1,0 +1,12 @@
+```bash
+.git/
+.idea/
+.DS_Store
+node_modules/*
+tags/*
+.history
+.vscode/
+coverage
+.nyc_output
+package-lock.json
+```
