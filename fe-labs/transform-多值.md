@@ -7,7 +7,7 @@
 }
 </style>
 
-[](../../_iframe/labs/transform-多值-0.html ':include data-id=0')
+[](../../_iframe/fe-labs/transform-多值-0.html ':include data-id=0')
 
 <!-- run -->
 ```html

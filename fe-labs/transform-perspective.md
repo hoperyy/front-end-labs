@@ -6,7 +6,7 @@
 
 ## 1
 
-[](../../_iframe/labs/transform-perspective-0.html ':include data-id=0')
+[](../../_iframe/fe-labs/transform-perspective-0.html ':include data-id=0')
 
 <!-- run -->
 ```html
@@ -30,7 +30,7 @@
 
 ## 2
 
-[](../../_iframe/labs/transform-perspective-1.html ':include data-id=1')
+[](../../_iframe/fe-labs/transform-perspective-1.html ':include data-id=1')
 
 <!-- run -->
 ```html
@@ -53,7 +53,7 @@
 
 ## 3
 
-[](../../_iframe/labs/transform-perspective-2.html ':include data-id=2')
+[](../../_iframe/fe-labs/transform-perspective-2.html ':include data-id=2')
 
 <!-- run -->
 ```html
