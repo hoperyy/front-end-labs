@@ -8,7 +8,7 @@
 
 ## 1
 
-[](../../_iframe/前端实验室/transform-translate-0.html ':include data-id=0')
+[](../_iframe/transform-translate-0.html ':include data-id=0')
 
 <!-- run -->
 ```html
@@ -31,7 +31,7 @@
 
 ## 2
 
-[](../../_iframe/前端实验室/transform-translate-1.html ':include data-id=1')
+[](../_iframe/transform-translate-1.html ':include data-id=1')
 
 <!-- run -->
 ```html

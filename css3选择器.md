@@ -6,7 +6,7 @@
 }
 </style>
 
-[](../../_iframe/前端实验室/css3选择器-0.html ':include data-id=0')
+[](../_iframe/css3选择器-0.html ':include data-id=0')
 
 <!-- run -->
 ```html

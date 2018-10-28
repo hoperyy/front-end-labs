@@ -9,7 +9,7 @@
 
 ## 1
 
-[](../../_iframe/前端实验室/transform-scale-0.html ':include data-id=0')
+[](../_iframe/transform-scale-0.html ':include data-id=0')
 
 <!-- run -->
 ```html
@@ -38,7 +38,7 @@ div.demo:hover {
 
 ## 2
 
-[](../../_iframe/前端实验室/transform-scale-1.html ':include data-id=1')
+[](../_iframe/transform-scale-1.html ':include data-id=1')
 
 <!-- run -->
 ```html
@@ -66,7 +66,7 @@ div.demo {
 
 ## 2
 
-[](../../_iframe/前端实验室/transform-scale-2.html ':include data-id=2')
+[](../_iframe/transform-scale-2.html ':include data-id=2')
 
 <!-- run -->
 ```html
@@ -100,7 +100,7 @@ div.demo div {
 
 ## 3
 
-[](../../_iframe/前端实验室/transform-scale-3.html ':include data-id=3')
+[](../_iframe/transform-scale-3.html ':include data-id=3')
 
 <!-- run -->
 ```html
