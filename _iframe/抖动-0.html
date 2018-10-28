@@ -1,0 +1,86 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+
+        <head>
+            <meta charset="UTF-8">
+            <title>demo</title>
+            <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+            <meta name="description" content="Description">
+            <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+            <style>
+            html, body {
+                height: 100%;
+            }
+            </style>
+        </head>
+
+        <body>
+           <!-- run -->
+
+<style>
+
+	@-webkit-keyframes demo {
+		0% {
+			-webkit-transform: translateX(0);
+		}
+
+		25% {
+			-webkit-transform: translateX(15px);
+		}
+
+		50% {
+			-webkit-transform: translateX(0);
+		}
+
+		75% {
+			-webkit-transform: translateX(-15px);
+		}
+
+		100% {
+			-webkit-transform: translateX(0);
+		}
+	}
+	
+	@keyframes demo {
+		0% {
+			transform: translateX(0);
+		}
+
+		25% {
+			transform: translateX(15px);
+		}
+
+		50% {
+			transform: translateX(0);
+		}
+
+		75% {
+			transform: translateX(-15px);
+		}
+
+		100% {
+			transform: translateX(0);
+		}
+	}
+
+	.demo {
+		width: 200px;
+		height: 200px;
+		background: #000;
+		margin: 0 auto;
+	}
+	
+	.demo:hover,
+	.demo {
+		animation: .3s demo ease 3;
+		-webkit-animation: .3s demo ease 3;
+	}
+</style>
+
+<div class="demo"></div>
+
+        </body>
+
+        </html>
+    

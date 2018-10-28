@@ -1,0 +1,139 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+
+        <head>
+            <meta charset="UTF-8">
+            <title>demo</title>
+            <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+            <meta name="description" content="Description">
+            <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+            <style>
+            html, body {
+                height: 100%;
+            }
+            </style>
+        </head>
+
+        <body>
+           <!-- run -->
+
+<style>
+	.demo ul,
+	.demo li {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+
+	.demo {
+		padding: 1px 0;
+		background: #000;
+	}
+
+	.demo ul {
+		position: relative;
+		width: 200px;
+		height: 300px;
+		margin: 200px auto;
+		transition: .4s all ease;
+		transform: perspective(3000px) rotateX(-10deg);
+		transform-style:preserve-3d;
+
+	}
+
+	.demo li {
+		position: absolute;
+		left: 0;
+		top: 0;
+		text-align: center;
+		width: 100%;
+		height: 300px;
+		line-height: 300px;
+		font-size: 100px;
+		border: 4px solid #fff;
+		box-shadow: 0 0 20px 10px;
+		transition: .4s all ease;
+		border-radius: 10px;
+		-webkit-box-reflect: below 10px -webkit-linear-gradient(rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.1));
+	}
+</style>
+
+<div class="demo">
+	<ul></ul>
+</div>
+
+<script>
+	;(function() {
+
+		var listWrap = document.querySelector('.demo ul');
+		listWrap.dataset.rotate = 0;
+
+		// 生成圆环
+		var N = 8;
+		var rotateUnit = 360 / (N - 1);
+		var tempLi;
+		var tempRotate;
+
+		var isReady = true;
+
+		var allRotates = [];
+
+		for (var i = 0; i < N; i++) {
+
+			tempLi = document.createElement('li');
+
+			listWrap.appendChild(tempLi);
+
+			//tempLi.innerHTML = i;
+
+			tempRotate = i * rotateUnit;
+
+			tempLi.style.transform = 'rotateY(' + tempRotate + 'deg) translateZ(400px)';
+
+			tempLi.dataset.index = i;
+
+			allRotates.push(tempRotate);
+
+			/*tempLi.onclick = function() {
+
+				if (!isReady) {
+					return;
+				}
+
+				isReady = false;
+
+				// 更新各个模块的角度
+				updateRotates(parseInt(this.dataset.index));
+			};*/
+
+		}
+
+		console.log(allRotates);
+
+
+		var updateRotates = function(currentIndex) {
+			var items = document.querySelectorAll('.demo li');
+			var tempLi;
+			var preRotate;
+			var count = allRotates.length - currentIndex;
+
+			for (var i = currentIndex + 1; i < allRotates.length; i++) {
+				allRotates.unshift(allRotates.pop());
+			}
+			console.log(allRotates);
+
+			for (var i = 0; i < N; i++) {
+				tempLi = items[i];
+				tempLi.style.transform = 'rotateY(' + allRotates[i] + 'deg) translateZ(400px)';
+			}
+
+		};
+
+	})();
+</script>
+
+        </body>
+
+        </html>
+    

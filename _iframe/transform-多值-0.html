@@ -1,0 +1,75 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+
+        <head>
+            <meta charset="UTF-8">
+            <title>demo</title>
+            <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+            <meta name="description" content="Description">
+            <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+            <style>
+            html, body {
+                height: 100%;
+            }
+            </style>
+        </head>
+
+        <body>
+           <!-- run -->
+
+<style>
+div.demo {
+	position: relative;
+	height: 300px;
+}
+
+div.demo .x-line,
+div.demo .y-line {
+	position: absolute;
+	background: black;
+}
+
+div.demo .x-line {
+	left: 5px;
+	top: 0;
+	height: 1px;
+	width: 100%;
+}
+
+div.demo .y-line {
+	left: 0;
+	top: 9px;
+	height: 100%;
+	width: 1px;
+}
+
+div.demo div {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100px;
+	height: 100px;
+}
+div.demo .red {
+	background: red;
+	transform: rotate(45deg) translate(100px, 100px);
+}
+
+div.demo .green {
+	background: green;
+	transform: translate(100px, 100px) rotate(45deg);
+}
+</style>
+
+<div class="demo">
+	<span class="x-line"></span>
+	<span class="y-line"></span>
+	<div class="red"></div>
+	<div class="green"></div>
+</div>
+
+        </body>
+
+        </html>
+    
